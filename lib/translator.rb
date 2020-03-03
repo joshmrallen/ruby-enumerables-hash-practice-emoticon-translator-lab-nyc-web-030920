@@ -28,6 +28,7 @@ def load_library(path)
   
 end
 
+<<<<<<< HEAD
 
 
 def get_japanese_emoticon(yml_path, english_emoticon)
@@ -41,6 +42,11 @@ def get_japanese_emoticon(yml_path, english_emoticon)
   else
     return "Sorry, that emoticon was not found"
   end
+=======
+def get_japanese_emoticon
+  
+  
+>>>>>>> 065fc33c0115f3699ae01d009132c5906fd88a76
   
 end
 
